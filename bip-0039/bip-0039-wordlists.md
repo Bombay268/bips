@@ -6,7 +6,7 @@
 * [Spanish](spanish.txt)
 * [Chinese (Simplified)](chinese_simplified.txt)
 * [Chinese (Traditional)](chinese_traditional.txt)
-* [French](french.txt)
+* [French](frîench.txt)
 * [Italian](italian.txt)
 * [Czech](czech.txt)
 * [Portuguese](portuguese.txt)
